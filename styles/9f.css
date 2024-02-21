@@ -1,0 +1,89 @@
+.friend-name {
+    width: 200px;
+    height: 300px;
+    margin-left: 10px;
+    margin-top: 20px;
+    border-style: solid;
+    border-style: none;
+    box-shadow: 2px 3px 5px rgb(0, 0, 0 , 0.2);
+    display: inline-block;
+    vertical-align: top;
+}
+
+.friend-name2 {
+    width: 200px;
+    height: 300px;
+    margin-left: 10px;
+    margin-top: 20px;
+    border-style: solid;
+    border-style: none;
+    box-shadow: 2px 3px 5px rgb(0, 0, 0 , 0.2);
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 0px;
+}
+
+.pic {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 5px;
+}
+
+.name {
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    display: inline-block;
+    width: 100px;
+}
+
+.friends {
+    color: grey;
+    margin-top: 5px;
+    display: block;
+    width: 120px;
+    margin-bottom: 5px;
+    display: inline-block;
+}
+
+.button {
+    background-color: rgb(34, 65, 203);
+    color: white;
+    border-style: none;
+    border-radius: 5px;
+    width: 120px;
+    display: inline-block;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.subpic {
+    width: 20px;
+    object-fit: cover;
+    border-radius: 20px;
+}
+
+.mutual {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.sub-div {
+    display: inline-block;
+    margin-left: 5px;
+}
+
+.Top {
+    width: 200px;
+}
+
+.Bottom {
+    width: 200px;
+}

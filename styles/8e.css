@@ -1,0 +1,46 @@
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 0;
+    width: 450px;
+}
+
+.pickup{
+    background-color: lightgray;
+    border-style: none;
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    width: 350px;
+    padding: 10px;
+}
+
+.destination{
+    background-color: lightgray;
+    border-style: none;
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    width: 350px;
+    padding: 10px;
+}
+
+.request {
+    background-color: black;
+    color: white;
+    border-style: none;
+    width: 150px;
+    padding: 10px;
+    margin-right: 20px;
+    font-size: 15px;
+}
+
+.schedule {
+    background-color: lightgray;
+    color: black;
+    border-style: none;
+    width: 150px;
+    padding: 10px;
+    font-size: 15px;
+}

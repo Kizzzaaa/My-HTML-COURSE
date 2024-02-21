@@ -1,0 +1,69 @@
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    column-gap: 20px;
+}
+
+.name {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    margin-left: 5px;
+}
+
+.sasuke-pic {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.zoro-pic {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.mutual-pic {
+    width: 30px;
+    border-radius: 100%;
+    object-fit: cover;
+    margin-top: 5px;
+    vertical-align: middle;
+}
+
+.mutual-friends-row {
+    display: grid;
+    grid-template-columns: 30px 1fr;
+    align-items: center;
+    margin-left: 5px;
+}
+.mutual-friends {
+    margin-left: 8px;
+    color: grey;
+    vertical-align: middle;
+}
+
+.add-friend {
+    margin-top: 5px;
+    margin-left: 5px;
+    width: 110px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 5px;
+    border-style: none;
+    background-color: rgb(8, 102, 255);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+.profile {
+    box-shadow: 0px 0px 10px rgb(0,0,0,0.3);
+}

@@ -1,0 +1,33 @@
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.title {
+    margin-bottom: 5px;
+}
+
+.text {
+    border-style: solid;
+    border-radius: 5px;
+    border-color: black;
+    margin-bottom: 10px;
+    width: 370px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    margin-bottom: 5px;
+}
+
+.disc {
+    font-size: 15;
+}
+
+.button {
+    background-color: #0072b1;
+    color: white;
+    border-style: none;
+    border-radius: 100px;
+    width: 370px;
+    font-size: 30;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

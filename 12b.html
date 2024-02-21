@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title>
+      Flex
+    </title>
+
+    <style>
+      .grid {
+        display: flex;
+        flex-direction: row;
+      }
+
+      .first {
+        background-color: blue;
+        width: 50px;
+      }
+
+      .second {
+        background-color: green;
+        flex: 1;
+      }
+
+      .third {
+        background-color: blue;
+        width: 75px;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="grid">
+      <div class="first">50px</div>
+      <div class="second">Free</div>
+      <div class="third">75px</div>
+
+    </div>
+  </body>
+</html>
