@@ -1,0 +1,23 @@
+.flexbox {
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+}
+
+.red {
+    background-color: red;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blue {
+    background-color: aqua;
+    width: 200px;
+}
+
+.black {
+    background-color: black;
+    color: white;
+}
